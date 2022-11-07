@@ -1,0 +1,33 @@
+
+body {
+    max-width: 90%;
+    background-color: rgb(222, 240, 240);
+    margin: 0 auto;
+    font-family: 'Josefin Sans', sans-serif;
+
+    
+}
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    background-color: white;
+    box-shadow: 5px 10px 20px rgb(93, 88, 88);
+    
+}
+.description {
+    display: flex;
+}
+
+.text_primary {
+    padding-right: 20px;
+    text-align: justify;
+    max-width: 625px;
+    font-weight: 600;
+  
+}
+.text_secondary {
+    padding-left: 20px;
+    text-align: justify;
+    max-width:625px;
+}
